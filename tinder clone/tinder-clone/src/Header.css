@@ -1,0 +1,13 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.headerlogo{
+    object-fit: contain;
+    height: 42px;
+    /* border: 2px solid red; */
+}
+.headericon{
+    padding: 20px;
+}

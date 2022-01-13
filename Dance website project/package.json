@@ -1,0 +1,16 @@
+{
+  "name": "dance-website-project",
+  "version": "1.0.0",
+  "description": "Creating a normal dance website using pug and express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anish",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15",
+    "pug": "^3.0.2"
+  }
+}
